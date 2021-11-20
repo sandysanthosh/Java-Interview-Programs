@@ -359,4 +359,107 @@ Java Interview Preparation
 
 174 . When does a Java collection throw UnsupportedOperationException? 
 
-175 . What is difference between fail-safe and fail-fast iterators? 176 . What are atomic operations in Java? 177 . What is BlockingQueue in Java? Generics 178 . What are Generics? 179 . Why do we need Generics? Can you give an example of how Generics make a program more flexible? 180 . How do you declare a generic class? 181 . What are the restrictions in using generic type that is declared in a class declaration? 182 . How can we restrict Generics to a subclass of particular class? 183 . How can we restrict Generics to a super class of particular class? 184 . Can you give an example of a generic method? Multi threading 185 . What is the need for threads in Java? 186 . How do you create a thread? 187 . How do you create a thread by extending thread class? 188 . How do you create a thread by implementing runnable interface? 189 . How do you run a thread in Java? 190 . What are the different states of a thread? 191 . What is priority of a thread? How do you change the priority of a thread? 192 . What is executorservice? 193 . Can you give an example for executorservice? 194 . Explain different ways of creating executor services . 195 . How do you check whether an executionservice task executed successfully? 196 . What is callable? How do you execute a callable from executionservice? 197 . What is synchronization of threads? 198 . Can you give an example of a synchronized block? 199 . Can a static method be synchronized? 200 . What is the use of join method in threads? 201 . Describe a few other important methods in threads? 202 . What is a deadlock? 203 . What are the important methods in Java for inter-thread communication? 204 . What is the use of wait method? 205 . What is the use of notify method? 206 . What is the use of notifyall method? 207 . Can you write a synchronized program with wait and notify methods? Functional Programming - Lamdba expressions and Streams 208 . What is functional programming? 209 . Can you give an example of functional programming? 210 . What is a stream? 211 . Explain about streams with an example? what are intermediate operations in streams? 212 . What are terminal operations in streams? 213 . What are method references? 214 . What are lambda expressions? 215 . Can you give an example of lambda expression? 216 . Can you explain the relationship between lambda expression and functional interfaces? 217 . What is a predicate? 218 . What is the functional interface - function? 219 . What is a consumer? 220 . Can you give examples of functional interfaces with multiple arguments? New Features 221 . What are the new features in Java 5? 222 . What are the new features in Java 6? 223 . What are the new features in Java 7? 224 . What are the new features in Java 8? What you can do next? [Design Patterns] (https://www.youtube.com/watch?v=f5Rzr5mVNbY) [Maven] (https://courses.in28minutes.com/p/maven-tutorial-for-beginners-in-5-steps) [JSP Servlets] (https://www.youtube.com/watch?v=Vvnliarkw48) [Spring MVC] (https://www.youtube.com/watch?v=BjNhGaZDr0Y)
+175 . What is difference between fail-safe and fail-fast iterators? 
+
+176 . What are atomic operations in Java? 
+
+177 . What is BlockingQueue in Java? 
+
+#### Generics 
+
+178 . What are Generics? 
+
+179 . Why do we need Generics? Can you give an example of how Generics make a program more flexible? 
+
+180 . How do you declare a generic class? 
+
+181 . What are the restrictions in using generic type that is declared in a class declaration? 
+
+182 . How can we restrict Generics to a subclass of particular class? 
+
+183 . How can we restrict Generics to a super class of particular class? 
+
+184 . Can you give an example of a generic method? Multi threading 
+
+185 . What is the need for threads in Java? 
+
+186 . How do you create a thread? 
+
+187 . How do you create a thread by extending thread class? 
+
+188 . How do you create a thread by implementing runnable interface? 
+
+189 . How do you run a thread in Java? 
+
+190 . What are the different states of a thread? 
+
+191 . What is priority of a thread? How do you change the priority of a thread? 
+
+192 . What is executorservice? 
+
+193 . Can you give an example for executorservice? 
+
+194 . Explain different ways of creating executor services . 
+
+195 . How do you check whether an executionservice task executed successfully? 
+
+196 . What is callable? How do you execute a callable from executionservice? 
+
+197 . What is synchronization of threads? 
+
+198 . Can you give an example of a synchronized block? 
+
+199 . Can a static method be synchronized? 
+
+200 . What is the use of join method in threads? 
+
+201 . Describe a few other important methods in threads? 
+
+202 . What is a deadlock? 
+
+203 . What are the important methods in Java for inter-thread communication? 
+
+204 . What is the use of wait method? 
+
+205 . What is the use of notify method?
+
+ 206 . What is the use of notifyall method? 
+
+207 . Can you write a synchronized program with wait and notify methods? Functional Programming - Lamdba expressions and Streams 
+
+208 . What is functional programming?
+
+209 . Can you give an example of functional programming? 
+
+210 . What is a stream?
+
+ 211 . Explain about streams with an example? what are intermediate operations in streams? 
+
+212 . What are terminal operations in streams? 
+
+213 . What are method references? 
+
+214 . What are lambda expressions?
+
+215 . Can you give an example of lambda expression? 
+
+216 . Can you explain the relationship between lambda expression and functional interfaces?
+
+217 . What is a predicate?
+
+218 . What is the functional interface - function? 
+
+219 . What is a consumer? 
+
+220 . Can you give examples of functional interfaces with multiple arguments?
+
+#### New Features 
+
+221 . What are the new features in Java 5?
+
+222 . What are the new features in Java 6? 
+
+223 . What are the new features in Java 7? 
+
+224 . What are the new features in Java 8?
+

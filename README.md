@@ -1,7 +1,7 @@
 # Java-Interview-Programs
 
 
-Java Interview Preparation
+#### Java Interview Preparation
 
 
  1 . Why is Java so popular?
@@ -12,7 +12,7 @@ Java Interview Preparation
 
  4 . Compare JDK vs JVM vs JRE 
 
- 5.What are the important differences between C++ and Java?
+ 5.  What are the important differences between C++ and Java?
 
  6 . What is the role for a classloader in Java? Wrapper Classes
 
@@ -34,7 +34,7 @@ Java Interview Preparation
 
  15 . What is explicit casting?
 
- Strings 
+ #### Strings 
 
  16 . Are all String’s immutable?
 

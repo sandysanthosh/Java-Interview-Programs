@@ -114,7 +114,10 @@
 
  53 . Can a constructor be called directly from a method?
 
- 54 . Is a super class constructor called even when there is no explicit call from a sub class constructor? Advanced object oriented concepts
+ 54 . Is a super class constructor called even when there is no explicit call from a sub class constructor? 
+
+
+ #### Advanced object oriented concepts
 
  55 . What is polymorphism?
 
@@ -226,7 +229,9 @@
 
 107 . How does try with resources work? 
 
-108 . Can you explain a few exception handling best practices? Miscellaneous topics 
+108 . Can you explain a few exception handling best practices?
+
+#### Miscellaneous topics 
 
 109 . What are the default values in an array? 
 
@@ -426,7 +431,7 @@
 
 205 . What is the use of notify method?
 
- 206 . What is the use of notifyall method? 
+206 . What is the use of notifyall method? 
 
 207 . Can you write a synchronized program with wait and notify methods? Functional Programming - Lamdba expressions and Streams 
 

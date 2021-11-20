@@ -34,7 +34,7 @@
 
  15 . What is explicit casting?
 
- #### Strings 
+ #### Strings:
 
  16 . Are all String’s immutable?
 
@@ -373,7 +373,7 @@
 
 177 . What is BlockingQueue in Java? 
 
-#### Generics 
+#### Generics: 
 
 178 . What are Generics? 
 

@@ -48,7 +48,9 @@
 
  21 . What are differences between StringBuilder and StringBuffer?
 
- 22 . Can you give examples of different utility methods in String class? Object oriented programming basics
+ 22 . Can you give examples of different utility methods in String class?
+
+#### Object oriented programming basics
 
  23 . What is a class?
 

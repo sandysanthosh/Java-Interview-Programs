@@ -1,6 +1,5 @@
 # Java-Interview-Programs
 
-http://javasearch.buggybread.com/InterviewQuestions/questionSearch.php
 
 Java Interview Preparation
 
@@ -341,7 +340,9 @@ Java Interview Preparation
 
 165 . Can you give an example of implementation of navigableMap interface? 
 
-166 . What are the static methods present in the collections class? Advanced collections 
+166 . What are the static methods present in the collections class? 
+
+#### Advanced collections:
 
 167 . What is the difference between synchronized and concurrent collections in Java? 
 
@@ -433,7 +434,7 @@ Java Interview Preparation
 
 210 . What is a stream?
 
- 211 . Explain about streams with an example? what are intermediate operations in streams? 
+211 . Explain about streams with an example? what are intermediate operations in streams? 
 
 212 . What are terminal operations in streams? 
 

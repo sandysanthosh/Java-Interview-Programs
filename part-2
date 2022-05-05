@@ -1,0 +1,61 @@
+```
+
+S.No	Technology Area	Question	Response	Interviewer Name
+1	General	About last project,		
+2	General	Day to day activities in last projects,		
+3	General	Technologies used in last project.		
+4	Java	How Garbage Collection is working in java.		
+5	Java	try with resources.		
+6	Java	Java 8 features.		
+7	Java	Functional Interfaces.		
+8	Java	Exception handling in java.		
+9	Java	String constant pool in java.		
+10	Springboot	Springboot Annotations.		
+11	Springboot	@Autowired.		
+12	Springboot	spring data jpa.		
+13	Springboot	Exception handling in spring boot.		
+14	Springboot	Springboot starters.		
+15	Springboot	Rest API flow.		
+16	Springboot	snippet for creating RestAPI.		
+	General	Reason for Switching to Capgemini		
+	General	About last project I worked on		
+	General	On a typical day what kind of activity you will be doing in your project		
+	Database	Joins		
+	Database	Union		
+	Java	What is the difference between primitive and Object		
+	Java	String datatype is Primitive datatype or Object?		
+	Java	Can we change the value of the String?		
+	Java	How to append in the String?		
+	Java	In String Buffer and Builder, which one is thread safe?		
+	Java	In String Buffer and Builder, which one's performance is better?		
+	Java	What is the difference between Class and Object?		
+	Java	How will you identify a constructor among all the methods in a class?		
+	Rest	In which case we will go for GET method and POST method		
+	Rest	What are the different HTTP methods in the API and what are the difference between them?		
+	Rest	Between GET and POST which API is secured?		
+	Spring	What is Spring MVC		
+	Spring	In our last project what component will form the Model, View and Controller		
+	General	Mostly about previous project( 10-15 minutes of the interview based on this)		
+	General	Day to Day activities in previous Organization		
+	Java	What is synchronization In java		
+	Java	Rest API flow in java		
+	Database	Primary key and foreign key in SQL		
+	Java	Static in java		
+	Java	Try catch and finally block in java		
+	Java	Purpose of finally block in java		
+	Java	Return inside finally block		
+	Java	Design patterns in java		
+	Java	Behavioral design patterns		
+	Spring	Explain spring in real time scenario		
+	Agile	Purpose of agile methodology		
+	Database	How to find duplicates in table 		
+	Java	Exception handling in java		
+	Java	Functional interface in java		
+	ReactJS	About hooks in functional component		
+	ReactJS	What are life cycle methods i used in my  project 		
+	ReactJS	Purpose of setState and it's behavior (Sync or Async)		
+	ReactJS	What are fragments?		
+	ReactJS	What are the keywords for react routers		
+	ReactJS	What is shouldComponentUpdate 		
+  
+  ```

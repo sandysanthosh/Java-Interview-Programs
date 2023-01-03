@@ -39,6 +39,7 @@ b=a-b;
 
 ### Reverse numbers:
 
+```
 Scanner sc = new Scanner(System.in);
 
 int num= sc.nextInt();
@@ -54,11 +55,11 @@ options 2:
 
 sb.append(num);
 sb.reverse();
-
+```
 ### Revese String:
 
 options 1:
-
+```
     public static void main(String []args) {
         String sc ="sandy";
         String rev = "";
@@ -76,10 +77,10 @@ options 2:
         StringBuffer sb = new StringBuffer(sc);
         System.out.println(sb.reverse());
     }
-
+```
 ### Palindrome:
 
-
+```
 public static void main(String []args) {
         String org = "ava";
         String rev = "";
@@ -95,10 +96,10 @@ public static void main(String []args) {
     }
 
 
-
+```
 ### String equal or not:
 
-
+```
 public static void main(String []args) {
         String org = "ava";
         String rev = "";
@@ -128,9 +129,9 @@ public class HelloWorld {
         System.out.println("Count " +count);
     }
 }
-
+```
 #### Even numbers and odd numbers:
-
+```
 /* Online Java Compiler and Editor */
 public class HelloWorld {
     public static void main(String []args) {
@@ -143,9 +144,9 @@ public class HelloWorld {
         }
     }
 }
-
+```
 #### count sum of digits:
-
+```
 /* Online Java Compiler and Editor */
 public class HelloWorld {
     public static void main(String []args) {
@@ -158,11 +159,11 @@ public class HelloWorld {
         System.out.println(sum);
     }
 }
-
+```
 
 #### highest of three numbers:
 
-
+```
 /* Online Java Compiler and Editor */
 public class HelloWorld {
     public static void main(String []args) {
@@ -175,10 +176,10 @@ public class HelloWorld {
             System.out.println(" C is Bigger " + c );
     }
 }
-
+```
 
 #### Fibonacci Series:
-
+```
 hint:
 
 0 1 1 2 3 5 7 12 21 35
@@ -197,10 +198,10 @@ public class HelloWorld {
         }
     }
 }
-
+```
 
 #### Swap two number:
-
+```
  a =  a+ b;
  a = a - b;
  b = a - b;
@@ -216,9 +217,9 @@ public class HelloWorld {
         System.out.print("b "+b);
     }
 }
-
+```
 ### Two Equal array:
-
+```
 import java.util.*;
 public class HelloWorld {
     public static void main(String []args) {
@@ -231,9 +232,9 @@ public class HelloWorld {
             System.out.println("No");
     }
 }
-
+```
 Options 2:
-
+```
 /* Online Java Compiler and Editor */
 
 import java.util.*;
@@ -258,9 +259,9 @@ public class HelloWorld {
     }
 
 }
-
+```
 #### Max number in array:
-
+```
 /* Online Java Compiler and Editor */
 
 import java.util.*;
@@ -275,9 +276,9 @@ public class HelloWorld {
         System.out.println(max);
     }
 }
-
+```
 #### Min Number in array:
-
+```
 /* Online Java Compiler and Editor */
 
 import java.util.*;
@@ -292,11 +293,11 @@ public class HelloWorld {
         System.out.println(min);
     }
 }
-
+```
 
 #### Duplicate in string:
 
-
+```
 
 /* Online Java Compiler and Editor */
 
@@ -316,9 +317,10 @@ public class HelloWorld {
             System.out.println("No Duplicate");
     }
 }
+```
 
 ### Index of element:
-
+```
 /* Online Java Compiler and Editor */
 
 import java.util.*;
@@ -335,9 +337,11 @@ public class HelloWorld {
 }
 
 
-
+```
 #### replase Special Character:
 
+
+```
 /* Online Java Compiler and Editor */
 
 import java.util.*;
@@ -349,11 +353,11 @@ System.out.println(s);
 }
 }
 
-
+```
 
 #### Sort in Arrays:
 
-
+```
 /* Online Java Compiler and Editor */
 import java.util.*;
 public class HelloWorld {
@@ -366,9 +370,10 @@ public class HelloWorld {
     }
 }
 
+
 output:
 
 Before sort[20, 30, 10, 50, 99]
 After sort[10, 20, 30, 50, 99
-
+```
 
